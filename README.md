@@ -1,6 +1,6 @@
 # Django Insert Data Into Database with Source Code
 
-The Django Insert Form Data Into Database is easy to manipulate by the user, first the user will input their first name, last name and address into the form after filling up.
+The **Django Insert Form Data Into Database** is easy to manipulate by the user, first the user will input their first name, last name and address into the form after filling up.
 
 The user will click the submit button and the data that being executed will store in the table above.
 
